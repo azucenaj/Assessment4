@@ -5,7 +5,7 @@ Front end client
 Log in and create account
 post and like
 
-The following function are currently in issues and most codes are on local drive and sompe parts are not have been upload:
+The following function are currently in issues and most codes are on local drive and sompe parts are not have been upload due to the parts cause discrepancies on the other functionality:
 Upload image file
 Authentication
 Chat functionality
@@ -16,8 +16,10 @@ Please use your own MONGO URL and execute in seperate command prompt the followi
 cd client
 npm start client
 2nd command prompt
+cd api
 npm start api
 
+I uploaded the dependencies due to the new dependencies online are not compatible anymore with my old logic and will require time to readjust the whole concept design.
 the following routes can be accessed via local host
 localhost3000/
 localhost3000/login
